@@ -13,5 +13,12 @@ C++库文件添加辅助：1）查找文件夹下具有某后缀名的所有文�
 针对上述两个提到的问题，写了个简单的小程序，对应的具有两个功能：
 
 1）查找文件夹下具有某后缀名的所有文件名
+![图片1](https://github.com/liming467/LibraryFileOperation/blob/master/img/Picture1.png)
 
 2）根据文件名将某一文件夹下的对应文件复制到另一文件夹下
+![图片2](https://github.com/liming467/LibraryFileOperation/blob/master/img/Picture1.png)
+
+
+## 其他
+
+1）LibraryFileOperation_boxed.exe可以直接运行，但没有在其他电脑试过，可能还需要.Net运行时环境或安装.Net SDK。
