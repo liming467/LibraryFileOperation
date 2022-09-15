@@ -16,7 +16,7 @@ C++库文件添加辅助：1）查找文件夹下具有某后缀名的所有文�
 ![图片1](https://github.com/liming467/LibraryFileOperation/blob/master/img/Picture1.png)
 
 2）根据文件名将某一文件夹下的对应文件复制到另一文件夹下
-![图片2](https://github.com/liming467/LibraryFileOperation/blob/master/img/Picture1.png)
+![图片2](https://github.com/liming467/LibraryFileOperation/blob/master/img/Picture2.png)
 
 
 ## 其他
